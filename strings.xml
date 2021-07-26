@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI1</string>
+    <string name="txt1">Name</string>
+    <string name="edt_1">Enter Your Name</string>
+    <string name="txt2">Age</string>
+    <string name="edt_2">Enter Your Age</string>
+    <string name="txt3">Weight</string>
+    <string name="edt_3">Enter Your Weight</string>
+    <string name="txt4">Height</string>
+    <string name="edt_4">Feets</string>
+    <string name="edt_5">Inches</string>
+    <string name="bttext">Submit</string>
+    <string name="txtimg">BMI Image</string>
+    <string name="splashtxt">BMI Calculator</string>
+    <string name="btn">Suggestions</string>
+</resources>
